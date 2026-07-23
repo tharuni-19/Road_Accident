@@ -204,3 +204,6 @@ you to source a real dataset first. Swap in your real dataset (Kaggle's
 "Road Accident" / "US Accidents" datasets are common choices) whenever
 you're ready — the rest of the pipeline works unchanged as long as
 column names match (or you edit `01_data_cleaning.py`).
+
+## 6.Charts
+
