@@ -206,4 +206,28 @@ you're ready — the rest of the pipeline works unchanged as long as
 column names match (or you edit `01_data_cleaning.py`).
 
 ## 6.Charts
+## 📊 Visualizations
 
+### 1. Age Group Analysis
+![Age Group Analysis](charts/age_group.png)
+
+### 2. Feature Importance
+![Feature Importance](charts/feature_importance.png)
+
+### 3. Monthly Accident Trend
+![Monthly Accident Trend](charts/monthly_trend.png)
+
+### 4. Accident Severity Distribution
+![Accident Severity Distribution](charts/severity_distribution.png)
+
+### 5. State-wise Accident Distribution
+![State-wise Accident Distribution](charts/state_wise.png)
+
+### 6. Time of Day Analysis
+![Time of Day Analysis](charts/time_of_day.png)
+
+### 7. Vehicle Type Distribution
+![Vehicle Type Distribution](charts/vehicle_type.png)
+
+### 8. Weather Impact on Accidents
+![Weather Impact](charts/weather_impact.png)
